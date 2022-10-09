@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+   
+  }
+  .navbar {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    max-width: 550px;
+    margin: 0 auto;
+    border-bottom: 14px solid #f2f2f2;
+  }
+  .navbar h1 {
+    color: #f1356d;
+  }
+  .navbar .links {
+    margin-left: auto;
+  }
+  .navbar a {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+  }
+  .navbar a:hover {
+    color: cyan;
+  }
+
+
+  .bloglists {
+    padding: 10px 16px;
+    margin: 20px 0;
+    border-bottom: 1px solid #fafafa;
+  }
+   .blogs h1{
+    font-size: 40px;
+    color: #0a4d5d;
+    margin: 18px;
+    align-content: center;
+   }
+
+  .bloglists:hover {
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+  }
+  .bloglists h2{  
+    font-size: 20px;
+    color: #0088a9;
+    margin-bottom: 8px;
+  }
+  .bloglists a {
+    text-decoration: none;
+  }
+
+/* createblogs new blog form */
+.createblogs {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .createblogs label {
+    text-align: left;
+    display: block;
+  }
+  .createblogs h2 {
+    font-size: 20px;
+    color: #0088a9;
+    margin-bottom: 30px;
+  }
+   .createblogs input, 
+  .createblogs textarea {
+    width: 100%;
+    padding: 10px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .createblogs button {
+    background: #0088a9;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+
+  /* Login form */
+/* .login-page{
+  background-color:#0088a9;
+}  */
+
+
+  .register-form{
+    max-width: 400px;
+    margin: 40px auto;
+    text-align: center;
+  }
+
+  .register-form input, 
+  .register-form textarea {
+    width: 100%;
+    padding: 12px 11px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .login-form{
+    max-width: 400px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  .login-form input, 
+  .login-form textarea {
+    width: 100%;
+    padding: 12px 11px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+
+  .message{
+    font-size: 20px;
+    color: #0088a9;
+    margin: 20px;
+  }
+   button {
+    background: #0088a9;
+    color: #fff;
+    border: 0;
+    margin: 20px;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  .details{
+    padding: 20px;
+    max-width: 460px;
+    margin: 60px auto;
+    box-shadow: 4px 9px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-bottom: 1px solid #fafafa;
+  }
+
+  .details h2{
+     font-size: 27px; 
+    color: #0088a9;
+  }
+  .details p{
+   line-height: 48px;
+   font-size: 21px; 
+   color: brown;
+ }
+
+ .body{
+  line-height: 27px;
+
+ }

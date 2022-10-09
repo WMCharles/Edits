@@ -1,0 +1,84 @@
+{
+  "blogs": [
+    {
+      "title": "How to be a good programmer",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of Nairobi.",
+      "author": "Ahmed Ali",
+      "id": 1
+    },
+    {
+      "title": "Take it easy",
+      "body": "yes we can",
+      "author": "obama",
+      "id": 2
+    },
+    {
+      "title": "How to delete a post",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York.",
+      "author": "Dele Ali",
+      "id": 3
+    },
+    {
+      "title": "my blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "author": "Ahmed Alli",
+      "id": 4
+    },
+    {
+      "title": "This is the end of the world",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York.",
+      "author": "Maahir Alli",
+      "id": 5
+    },
+    {
+      "title": "How to Start a Blog",
+      "body": "It could be to share your opinions or to build a personal brand and establish yourself as an expert in your field. Before you can begin writing blog posts, you have to have a blog to post them on! There are a few things that are super important when it comes to starting and maintaining a blog, and we'll go over those now so you can get to writing ASAP.",
+      "author": "C. Nkunku",
+      "id": 6
+    },
+    [
+      {
+        "title": "How to be a good programmer",
+        "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of Nairobi.",
+        "author": "Ahmed Ali",
+        "id": 1
+      },
+      {
+        "title": "Take it easy",
+        "body": "yes we can",
+        "author": "obama",
+        "id": 2
+      },
+      {
+        "title": "How to delete a post",
+        "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York.",
+        "author": "Dele Ali",
+        "id": 3
+      },
+      {
+        "title": "my blog",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "author": "Ahmed Alli",
+        "id": 4
+      },
+      {
+        "title": "This is the end of the world",
+        "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York.",
+        "author": "Maahir Alli",
+        "id": 5
+      },
+      {
+        "title": "How to Start a Blog",
+        "body": "It could be to share your opinions or to build a personal brand and establish yourself as an expert in your field. Before you can begin writing blog posts, you have to have a blog to post them on! There are a few things that are super important when it comes to starting and maintaining a blog, and we'll go over those now so you can get to writing ASAP.",
+        "author": "C. Nkunku",
+        "id": 6
+      }
+    ],
+    {
+      "title": "My New Item",
+      "body": "I am using formData. Checked and It now works",
+      "author": "MK",
+      "id": 8
+    }
+  ]
+}
